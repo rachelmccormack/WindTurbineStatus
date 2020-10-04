@@ -18,5 +18,6 @@
 Was really curious about "extra" number 2:
 2. Pulling the inspection data down in an Ajax call and processing the results in the browser
 I couldn't think what data we needed to send and retrieve? What was needing to be updated here? 
-I even messaged my friends (who are the same level of experience as me, but use different technologies) after to see what they made of it.
+I even messaged my friends (who have the same kind of experience level, but use different technologies) after to see what they made of it.
+We couldn't agree with a reason. Maybe some kind of extension to the page? 
 Everyones curious now, would really appreciate if someone could let me know what the use for this would be.
