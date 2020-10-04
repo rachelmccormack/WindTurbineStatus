@@ -9,10 +9,10 @@
 - Added " Running Normally" for the non broken items - looked wrong to leave them blank. 
 - Highlighted the errors. Kind of assumed struck by lightning was worse than coating damage so used the warning on that and info on the coating ones. 
 - If we were extending this we would probably have a view with a list of other wind turbines (assuming we have more than one) 
-    and perhaps some kid of triage/colour code highlights for the wind turbines with the most item failure.
-- Different wind turbines may have a different number of items to be inspected - we couldn't "hardcode" the column sizes like we have. 
+    and perhaps some kind of triage/colour code highlights for the wind turbines with the most item failure.
+- Different wind turbines may have a different number of items to be inspected - we couldn't "hardcode" the column sizes like I have. 
     We may need to paginate for larger lists, or reduce the number of columns for a smaller list.
-- Clicking on the error could give more information on severity/ what data was used to make the judgement.  
+- Clicking on the error could give more information on severity/ the data was used to make the judgement.  
 - I have vague memory of using EC2 before. Took a few tries to get it working but it's up at http://54.194.157.117/windTurbine.php
 
 Was really curious about "extra" number 2:
