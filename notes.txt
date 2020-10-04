@@ -1,6 +1,6 @@
 *Plan and approach notes* 
 - First thoughts were "Oh this is just a variation of the fizzbuzz test!"
-- I tutor 14 year olds in Python and recently I have been giving out fizzbuzz as homework to make sure they can understand loops and mathematical operations. 
+- I tutor high school student in Python and recently I have been giving out fizzbuzz as homework to make sure they can understand loops and mathematical operations. 
     This made it feel like a trick quesiton a bit. 
 - Or maybe cheating because I knew the solution without much hassle. 
 - Did not have any problems with the php other than missing a semicolon once or twice -  that was good. Even getting it set up with IIS wasn't a big deal. 
