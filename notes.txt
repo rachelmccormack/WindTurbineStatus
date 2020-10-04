@@ -1,0 +1,22 @@
+*Plan and approach notes* 
+- First thoughts were "Oh this is just a variation of the fizzbuzz test!"
+- I tutor 14 year olds in Python and recently I have been giving out fizzbuzz as homework to make sure they can understand loops and mathematical operations. 
+    This made it feel like a trick quesiton a bit. 
+- Or maybe cheating because I knew the solution without much hassle. 
+- Did not have any problems with the php other than missing a semicolon once or twice -  that was good. Even getting it set up with IIS wasn't a big deal. 
+- It was nice to code a wee thing on the weekend that was kind of familiar but kind of new.  
+- Was more puzzled with how best to display all the information. A table? a big list? Eventually went with the bootstrap grid. Split the results into 4 columns of 25.  
+- Added " Running Normally" for the non broken items - looked wrong to leave them blank. 
+- Highlighted the errors. Kind of assumed struck by lightning was worse than coating damage so used the warning on that and info on the coating ones. 
+- If we were extending this we would probably have a view with a list of other wind turbines (assuming we have more than one) 
+    and perhaps some kid of triage/colour code highlights for the wind turbines with the most item failure.
+- Different wind turbines may have a different number of items to be inspected - we couldn't "hardcode" the column sizes like we have. 
+    We may need to paginate for larger lists, or reduce the number of columns for a smaller list.
+- Clicking on the error could give more information on severity/ what data was used to make the judgement.  
+- I have vague memory of using EC2 before. Took a few tries to get it working but it's up at http://54.194.157.117/windTurbine.php
+
+Was really curious about "extra" number 2:
+2. Pulling the inspection data down in an Ajax call and processing the results in the browser
+I couldn't think what data we needed to send and retrieve? What was needing to be updated here? 
+I even messaged my friends (who are the same level of experience as me, but use different technologies) after to see what they made of it.
+Everyones curious now, would really appreciate if someone could let me know what the use for this would be.
