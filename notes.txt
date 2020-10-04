@@ -3,7 +3,7 @@
 - I tutor high school student in Python and recently I have been giving out fizzbuzz as homework to make sure they can understand loops and mathematical operations. 
     This made it feel like a trick quesiton a bit. 
 - Or maybe cheating because I knew the solution without much hassle. 
-- Did not have any problems with the php other than missing a semicolon once or twice -  that was good. Even getting it set up with IIS wasn't a big deal. 
+- Did not have any problems with the php other than missing a semicolon once or twice -  that was good. Even getting php set up with IIS wasn't a big deal. 
 - It was nice to code a wee thing on the weekend that was kind of familiar but kind of new.  
 - Was more puzzled with how best to display all the information. A table? a big list? Eventually went with the bootstrap grid. Split the results into 4 columns of 25.  
 - Added " Running Normally" for the non broken items - looked wrong to leave them blank. 
